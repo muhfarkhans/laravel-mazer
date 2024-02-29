@@ -13,3 +13,7 @@
 [Mazer v2.3.0](https://github.com/zuramai/mazer/releases/tag/v2.3.0)
 
 ## Thanks To [Mazer Bootstrap 5 Admin Dashboard Template](https://zuramai.github.io/mazer/)
+
+## Screenshoot
+
+![dashboard image](https://res.cloudinary.com/dg65la9dr/image/upload/v1709188663/kal51v623yx1ghqovfcs.png)
